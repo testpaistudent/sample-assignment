@@ -5,5 +5,5 @@ anywhere other than the specified area
 
 def f():
     #######YOUR CODE HERE##########
-    pass
+    return "Did the assignment"
     #######END CODE################
